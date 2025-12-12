@@ -1,0 +1,44 @@
+name: Update Checker
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    - cron: "0 7 * * *"  # elke dag 07:00 UTC (08:00 Brussel in winter)
+
+permissions:
+  contents: write
+
+jobs:
+  run-checker:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run agent
+        run: |
+          python main.py
+
+      - name: Commit output to repo
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add output/update_report.csv
+          git commit -m "Update report" || echo "No changes to commit"
+          git push
+
+      - name: Upload CSV as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: update-report
+          path: output/update_report.csv
