@@ -1,17 +1,17 @@
 url,title,best_date_utc,found_where,http_last_modified,status,content_hash,checked_at_utc
-https://www.rodekruis.nl/persberichten/,Persberichten Archive - Rode Kruis Nederland,,,,OK_NO_DATE_FOUND,454ed51dbe6d32e42be6a08677d3f634eec88349f03810384091df6fcce82b24,2026-01-16T07:28:54.278715+00:00
-https://www.rodekruis.nl/nieuws/,Nieuws - Rode Kruis Nederland,2026-01-16T05:50:35+00:00,http_header:Last-Modified,2026-01-16T05:50:35+00:00,HTTP_200,4c851c9605ba3152d30defe6a04a14eb32f52573a66ebc2b2455e74cb9967e83,2026-01-16T07:28:55.612967+00:00
-https://www.belga.press/,Belga.press - Home Page,,,,OK_NO_DATE_FOUND,c4316cd2c999df73e01476e9b4b17c78e48db3392ff7d51d0c0352abc82f74fa,2026-01-16T07:28:56.078313+00:00
-https://www.apple.com/newsroom/,Newsroom - Apple,,,,OK_NO_DATE_FOUND,c8ef83e482bc4f968bd463075fdc4e5038d30517b064929d3f39722e90ee631d,2026-01-16T07:28:57.747013+00:00
-https://news.microsoft.com/nl-be/feed/,Newscenter,2025-01-30T08:08:03+00:00,http_header:Last-Modified,2025-01-30T08:08:03+00:00,HTTP_200,a6b976f32349e88789607ee82810fd273fccb877fc6e277ecf19c9315b485190,2026-01-16T07:28:57.862656+00:00
-https://ec.europa.eu/commission/presscorner/,Press corner | European Commission,2025-11-07T15:27:48+00:00,http_header:Last-Modified,2025-11-07T15:27:48+00:00,HTTP_200,979d0b6cd07e6225bfc7a8900ae721082cd77eb19a573d5021586a54ac44ce97,2026-01-16T07:28:58.157812+00:00
-https://press.un.org/en,UN Meetings Coverage and Press Releases | We’ve got the United Nations covered,2026-01-16T01:10:24+00:00,http_header:Last-Modified,2026-01-16T01:10:24+00:00,HTTP_200,03de0cd87f4d83562b3a5fb070f68877bef62e6b1c7407744754e921474684b8,2026-01-16T07:28:58.618326+00:00
-https://www.nato.int/en/news-and-events/press-office,Press Office,,,,OK_NO_DATE_FOUND,7ce8ee6748020e8878b89f2f95ff4f2b54eb70b736d8122f2a208e8bf1864533,2026-01-16T07:28:58.808802+00:00
-https://www.unicef.org/media/press-centre,Press centre | UNICEF,2026-01-16T07:08:21+00:00,http_header:Last-Modified,2026-01-16T07:08:21+00:00,HTTP_200,122714ff74ca339a537a4c7fcc63884aaa559a21520aca596fd5fe269371949e,2026-01-16T07:28:59.646960+00:00
-https://www.ikea.com/global/en/newsroom/,Newsroom - IKEA Global,,,,OK_NO_DATE_FOUND,9863b0b4ebc81a2be4e3e1484e1e00bd348b523a4fda9f1ddb9db4477b38cae6,2026-01-16T07:28:59.955753+00:00
-https://press.ikea.be/en,IKEA Belgium,,,,OK_NO_DATE_FOUND,706178db4ba99dd0136dd5a581edbe491ca80e74ef4611d3eed1fb272d5bd390,2026-01-16T07:29:00.170588+00:00
-https://newsroom.spotify.com/media-kit/,Media Kit Archive — Spotify,,,,OK_NO_DATE_FOUND,aa323414e3e6186d76d1bd48bcb278080715483010bbae6eb1ced8ab7be3e7eb,2026-01-16T07:29:00.943460+00:00
-https://newsroom.kbc.com/,KBC Group - Pressroom,,,,OK_NO_DATE_FOUND,7414a43ba0f95768ef70765c9258833baad24b5d55a81352173ff9276a057932,2026-01-16T07:29:02.556196+00:00
-https://www.proximus.com/news.html,News | Proximus Group,2026-01-15T10:23:53+00:00,http_header:Last-Modified,2026-01-15T10:23:53+00:00,HTTP_200,786e071291eb8c9b6a04c4136643b7139d48eacf13175cc78d5c16880354b3a6,2026-01-16T07:29:03.603592+00:00
-https://www.ab-inbev.com/news-media/press-releases,Press Releases | AB InBev | AB InBev,,,,OK_NO_DATE_FOUND,b61c46f8d61717bc4169a853f294bd53950eef55c2bb1a57a484f42a9041bc72,2026-01-16T07:29:04.503000+00:00
-https://ir.tesla.com/press,,,,,HTTP_403,,2026-01-16T07:29:04.804205+00:00
+https://www.rodekruis.nl/persberichten/,Persberichten Archive - Rode Kruis Nederland,,,,OK_NO_DATE_FOUND,454ed51dbe6d32e42be6a08677d3f634eec88349f03810384091df6fcce82b24,2026-01-17T07:22:59.858288+00:00
+https://www.rodekruis.nl/nieuws/,Nieuws - Rode Kruis Nederland,2026-01-16T23:54:08+00:00,http_header:Last-Modified,2026-01-16T23:54:08+00:00,HTTP_200,89c3162b53a49e4eec79014db2a549b0bc2b7fb406dc561cc396f9ecf7db2fef,2026-01-17T07:23:01.190668+00:00
+https://www.belga.press/,Belga.press - Home Page,,,,OK_NO_DATE_FOUND,2195d800cf1e82b5db3a297bbbb4d39d9ca4e862c69eb72ad9579e4d954b0981,2026-01-17T07:23:01.812979+00:00
+https://www.apple.com/newsroom/,Newsroom - Apple,,,,OK_NO_DATE_FOUND,cf067ebe6190a69fb1059a573820dd4f47a263e64153361d40b20d8e6d3208fd,2026-01-17T07:23:04.475046+00:00
+https://news.microsoft.com/nl-be/feed/,Newscenter,2025-01-30T08:08:03+00:00,http_header:Last-Modified,2025-01-30T08:08:03+00:00,HTTP_200,a6b976f32349e88789607ee82810fd273fccb877fc6e277ecf19c9315b485190,2026-01-17T07:23:04.581577+00:00
+https://ec.europa.eu/commission/presscorner/,Press corner | European Commission,2025-11-07T15:27:48+00:00,http_header:Last-Modified,2025-11-07T15:27:48+00:00,HTTP_200,979d0b6cd07e6225bfc7a8900ae721082cd77eb19a573d5021586a54ac44ce97,2026-01-17T07:23:04.882326+00:00
+https://press.un.org/en,UN Meetings Coverage and Press Releases | We’ve got the United Nations covered,2026-01-16T23:46:25+00:00,http_header:Last-Modified,2026-01-16T23:46:25+00:00,HTTP_200,1ded43d0bbab049ea93930a82bb6cf4ef99b7c706bbcfa6abf5a72ef92a56aee,2026-01-17T07:23:05.297580+00:00
+https://www.nato.int/en/news-and-events/press-office,Press Office,,,,OK_NO_DATE_FOUND,f1ff6c5c19280c43140024e830adda9f97bc53e53c69bf8ddfcc21c3a2b95975,2026-01-17T07:23:05.591873+00:00
+https://www.unicef.org/media/press-centre,Press centre | UNICEF,2026-01-17T03:37:57+00:00,http_header:Last-Modified,2026-01-17T03:37:57+00:00,HTTP_200,3f1ecba58cdd2586d3acc93e515289a2761e22537c0836e846ab5189c1595a50,2026-01-17T07:23:05.996720+00:00
+https://www.ikea.com/global/en/newsroom/,Newsroom - IKEA Global,,,,OK_NO_DATE_FOUND,4696d263c98c2347c1d99f2b553c42136ffcf50fafb2ae32e9b46235b2e928c6,2026-01-17T07:23:06.334701+00:00
+https://press.ikea.be/en,IKEA Belgium,,,,OK_NO_DATE_FOUND,acafd136ffdfe2a63dc93555289c3fce5e02e2d6e163b9a9aa625102f0b25f0f,2026-01-17T07:23:06.577784+00:00
+https://newsroom.spotify.com/media-kit/,Media Kit Archive — Spotify,,,,OK_NO_DATE_FOUND,aacc62ae4173e87dee1e3005d5391edc45036fd67988851be812dbcdbb0791c3,2026-01-17T07:23:07.378891+00:00
+https://newsroom.kbc.com/,KBC Group - Pressroom,,,,OK_NO_DATE_FOUND,f41559e47e168bd7a77fbba61f2a0e94bd1a84f311e2e608533f9e0413193d49,2026-01-17T07:23:09.052743+00:00
+https://www.proximus.com/news.html,News | Proximus Group,2026-01-16T16:50:28+00:00,http_header:Last-Modified,2026-01-16T16:50:28+00:00,HTTP_200,efc2f7c5ed1a10f7d80a423b68ab5e1a9458b9386a03e3cccd0235163ed86614,2026-01-17T07:23:09.868216+00:00
+https://www.ab-inbev.com/news-media/press-releases,Press Releases | AB InBev | AB InBev,,,,OK_NO_DATE_FOUND,a9ea4cce83570b5f040464f657e6d4a031e3c5bfa41667c636751c236501a94e,2026-01-17T07:23:10.792215+00:00
+https://ir.tesla.com/press,,,,,HTTP_403,,2026-01-17T07:23:11.151822+00:00
